@@ -1,0 +1,22 @@
+{
+  "name": "e-commerce-3",
+  "version": "1.0.0",
+  "description": "E-commerce-app [html-css-js]",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/CA-G12/E-commerce-3.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/CA-G12/E-commerce-3/issues"
+  },
+  "homepage": "https://github.com/CA-G12/E-commerce-3#readme",
+  "dependencies": {
+    "jest": "^28.1.3"
+  }
+}
