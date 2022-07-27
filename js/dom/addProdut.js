@@ -22,5 +22,5 @@ btn.addEventListener('click',function(e){
     document.querySelector('#price').value=""
     document.querySelector('#category').value=""
     document.querySelector('#image').value=""
+    addItemTo('allProduct',obj)
 })
-addItemTo('allProducts',obj)
