@@ -82,3 +82,7 @@ textarea{
 .add-btn:hover{
     opacity: 0.8;
 }
+.add-btn a{
+    display: block !important;
+    width: 100% !important;
+}
