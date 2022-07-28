@@ -16,7 +16,7 @@ function addToTable (obj,index) {
 }
 function editItem(id){
     setItem('editedItem',id)
-    window.location = "./editProduct.html"
+    window.location.href = "./editProduct.html"
 }
 function deleteItem(id){
     removeItemFrom('allProduct',id)
